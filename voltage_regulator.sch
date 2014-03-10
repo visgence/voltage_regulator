@@ -29,15 +29,16 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:voltage_regulator-cache
 EELAYER 24 0
 EELAYER END
-$Descr A4 11693 8268
+$Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "Votlage Regulator"
 Date ""
 Rev ""
-Comp ""
+Comp "Visgence Inc"
 Comment1 ""
 Comment2 ""
 Comment3 ""
