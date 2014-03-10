@@ -1,0 +1,66 @@
+Cmp-Mod V01 Created by CvPcb (2014-03-07 BZR 4737)-product date = 3/9/2014 3:59:22 PM
+
+BeginCmp
+TimeStamp = /531CE12C;
+Reference = C1;
+ValeurCmp = CP1;
+IdModule  = visgence_parts:SM0603_Capa_VIS;
+EndCmp
+
+BeginCmp
+TimeStamp = /531CE399;
+Reference = C2;
+ValeurCmp = CP1;
+IdModule  = visgence_parts:SM1210L_VIS;
+EndCmp
+
+BeginCmp
+TimeStamp = /531CE121;
+Reference = C3;
+ValeurCmp = CP1;
+IdModule  = visgence_parts:SM0603_Capa_VIS;
+EndCmp
+
+BeginCmp
+TimeStamp = /531CE3A4;
+Reference = C4;
+ValeurCmp = CP1;
+IdModule  = visgence_parts:SM1210L_VIS;
+EndCmp
+
+BeginCmp
+TimeStamp = /531CE1BA;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /531CE01B;
+Reference = P1;
+ValeurCmp = VIN;
+IdModule  = Connect:bornier2;
+EndCmp
+
+BeginCmp
+TimeStamp = /531CE03C;
+Reference = P2;
+ValeurCmp = VOUT;
+IdModule  = Connect:bornier2;
+EndCmp
+
+BeginCmp
+TimeStamp = /531CE1CE;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = visgence_parts:SM0603_VIS;
+EndCmp
+
+BeginCmp
+TimeStamp = /531CE049;
+Reference = U1;
+ValeurCmp = 78XX;
+IdModule  = Discret:LM78XXV;
+EndCmp
+
+EndListe
